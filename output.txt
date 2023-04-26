@@ -1,0 +1,8 @@
+An: 1
+apple: 2
+is: 2
+red: 1
+in: 1
+colour: 1
+This: 1
+an: 1
